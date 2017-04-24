@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.3.1", "1", "Agregar Distribuidor", "EARoot/EA1/EA1/EA3/EA56.htm", "4.png", "", "", "{23F9DA88-B295-48fa-9092-CB370DAEA557}", "Package");
+tocTab[tocTab.length] = new Array("1.1.3.2", "1", "Editar Distribuidor", "EARoot/EA1/EA1/EA3/EA57.htm", "4.png", "", "", "{9A41DAAE-1019-4c82-95E3-7F83D7052328}", "Package");
+tocTab[tocTab.length] = new Array("1.1.3.3", "1", "Eliminar Distribuidor", "EARoot/EA1/EA1/EA3/EA58.htm", "4.png", "", "", "{A57D64F9-AC7B-4feb-A825-F7E18707F628}", "Package");

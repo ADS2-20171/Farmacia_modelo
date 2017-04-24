@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.2.2:1", "", "Registrar Compra 1.html", "EARoot/EA1/EA1/EA2/EA2/EA41.htm", "188.png", "50", "0", "", "Custom diagram0","{EF5E9BAD-CFAA-491c-9706-3FFF343DD3F7}");
+tocTab[tocTab.length] = new Array("1.1.2.2:2", "", "Registrar Compra 2.html", "EARoot/EA1/EA1/EA2/EA2/EA43.htm", "188.png", "54", "0", "", "Custom diagram0","{E78A8608-5996-4673-B109-38C1EA6D110F}");
+tocTab[tocTab.length] = new Array("1.1.2.2:3", "", "Registrar Compra 3.html", "EARoot/EA1/EA1/EA2/EA2/EA45.htm", "188.png", "55", "0", "", "Custom diagram0","{8F529F47-AC6C-4b0c-AA9C-29BFFF550414}");
