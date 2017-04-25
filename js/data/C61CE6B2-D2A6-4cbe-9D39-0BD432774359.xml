@@ -1,3 +1,4 @@
 tocTab[tocTab.length] = new Array("1.1.1.1", "1", "Editar Cliente", "EARoot/EA1/EA1/EA1/EA18.htm", "4.png", "", "", "{13ED402D-6E8A-484d-8A85-B05F06FD60C6}", "Package");
-tocTab[tocTab.length] = new Array("1.1.1.2", "1", "Listar Cliente", "EARoot/EA1/EA1/EA1/EA19.htm", "4.png", "", "", "{B70AD656-35CE-4056-BE18-DEC7532B8588}", "Package");
-tocTab[tocTab.length] = new Array("1.1.1.3", "1", "Registrar Cliente", "EARoot/EA1/EA1/EA1/EA20.htm", "4.png", "", "", "{FB42E6F5-2D04-4300-9E52-27465C2A5084}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.2", "1", "Eliminar Cliente", "EARoot/EA1/EA1/EA1/EA19.htm", "4.png", "", "", "{B70846E9-A649-46af-9D10-43695F873596}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.3", "1", "Listar Cliente", "EARoot/EA1/EA1/EA1/EA20.htm", "4.png", "", "", "{B70AD656-35CE-4056-BE18-DEC7532B8588}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.4", "1", "Registrar Cliente", "EARoot/EA1/EA1/EA1/EA21.htm", "4.png", "", "", "{FB42E6F5-2D04-4300-9E52-27465C2A5084}", "Package");

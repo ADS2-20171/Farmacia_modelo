@@ -1,5 +1,4 @@
-tocTab[tocTab.length] = new Array("1.1.6.1", "1", "Editar Medicamento", "EARoot/EA1/EA1/EA6/EA98.htm", "4.png", "", "", "{A40590BA-0365-4d72-959B-C328F74CDD8E}", "Package");
-tocTab[tocTab.length] = new Array("1.1.6.2", "1", "Eliminar Medicamento", "EARoot/EA1/EA1/EA6/EA99.htm", "4.png", "", "", "{4E344AFF-41EA-450f-96F1-E119D64157BE}", "Package");
-tocTab[tocTab.length] = new Array("1.1.6.3", "1", "Listar Medicamento", "EARoot/EA1/EA1/EA6/EA100.htm", "4.png", "", "", "{2BC64D38-478C-4e0d-83F2-68999BCC76EF}", "Package");
-tocTab[tocTab.length] = new Array("1.1.6.4", "1", "Mantenimiento de Medicamentos", "EARoot/EA1/EA1/EA6/EA101.htm", "4.png", "", "", "{F0DBE2CD-4BBD-44e8-862E-7E390D248F76}", "Package");
-tocTab[tocTab.length] = new Array("1.1.6.5", "1", "Registro de Medicamento", "EARoot/EA1/EA1/EA6/EA102.htm", "4.png", "", "", "{1CC5FCBA-175E-44d8-97B3-302ED9E703CA}", "Package");
+tocTab[tocTab.length] = new Array("1.1.6.1", "1", "Editar Medicamento", "EARoot/EA1/EA1/EA6/EA115.htm", "4.png", "", "", "{A40590BA-0365-4d72-959B-C328F74CDD8E}", "Package");
+tocTab[tocTab.length] = new Array("1.1.6.2", "1", "Mantenimiento de Medicamentos", "EARoot/EA1/EA1/EA6/EA116.htm", "4.png", "", "", "{F0DBE2CD-4BBD-44e8-862E-7E390D248F76}", "Package");
+tocTab[tocTab.length] = new Array("1.1.6.3", "1", "Registro de Medicamento", "EARoot/EA1/EA1/EA6/EA117.htm", "4.png", "", "", "{1CC5FCBA-175E-44d8-97B3-302ED9E703CA}", "Package");
+tocTab[tocTab.length] = new Array("1.1.6.4", "1", "Retirar Medicamento", "EARoot/EA1/EA1/EA6/EA118.htm", "4.png", "", "", "{4E344AFF-41EA-450f-96F1-E119D64157BE}", "Package");
