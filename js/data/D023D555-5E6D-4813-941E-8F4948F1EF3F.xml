@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("1.1.4.1", "1", "Editar Laboratoriio", "EARoot/EA1/EA1/EA4/EA83.htm", "4.png", "", "", "{D61E617B-D27D-4733-B3F1-F8C6D3314002}", "Package");
-tocTab[tocTab.length] = new Array("1.1.4.2", "1", "Eliminar Laboratorio", "EARoot/EA1/EA1/EA4/EA84.htm", "4.png", "", "", "{905DA366-8CE9-41db-97E2-BE3AB03F58EF}", "Package");
-tocTab[tocTab.length] = new Array("1.1.4.3", "1", "Listar Laboratorio", "EARoot/EA1/EA1/EA4/EA85.htm", "4.png", "", "", "{63D270AD-91DE-4e65-9CF9-BC7A4C453FE3}", "Package");
-tocTab[tocTab.length] = new Array("1.1.4.4", "1", "Registrar Laboratorio", "EARoot/EA1/EA1/EA4/EA86.htm", "4.png", "", "", "{7D6904AF-4EDB-4d5d-BB7B-BCEC8BB5ABA6}", "Package");
