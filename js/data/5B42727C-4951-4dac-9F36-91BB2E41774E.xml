@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("2.4:1", "", "Diagrama de clases detallado", "EARoot/EA2/EA4/EA700.html", "175.png", "11", "0", "", "Logical diagram0","{DA403B12-C017-4ac9-9ADA-974C2C7197FF}");
+tocTab[tocTab.length] = new Array("2.4:2", "", "ClaseDeSoftware1", "EARoot/EA2/EA4/EA702.html", "5.png", "46", "0", "", "Class0","{FFDCEA5C-6334-4853-A06E-0D246EDE721C}");

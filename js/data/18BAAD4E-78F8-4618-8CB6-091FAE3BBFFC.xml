@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("1.1", "1", "Usuarios", "EARoot/EA1/EA3.html", "4.png", "", "", "{50A98047-BC5A-4033-9BB2-90DA87FC456C}", "Package");
+tocTab[tocTab.length] = new Array("1.2", "1", "Clientes", "EARoot/EA1/EA4.html", "4.png", "", "", "{D5C27146-37A3-4f45-9B48-4E9FF734CD43}", "Package");
+tocTab[tocTab.length] = new Array("1.3", "1", "Compras", "EARoot/EA1/EA5.html", "4.png", "", "", "{AD7DEFDF-6DE8-46b9-8259-B52D30248AA9}", "Package");
+tocTab[tocTab.length] = new Array("1.4", "1", "Distribuidores", "EARoot/EA1/EA6.html", "4.png", "", "", "{94F5BEF0-329B-474e-A936-177369C10287}", "Package");
+tocTab[tocTab.length] = new Array("1.5", "1", "Laboratorios", "EARoot/EA1/EA7.html", "4.png", "", "", "{509A1446-5657-4477-8E4A-4BB5F4469DDF}", "Package");
+tocTab[tocTab.length] = new Array("1.6", "1", "Medicamentos", "EARoot/EA1/EA8.html", "4.png", "", "", "{6892E59C-CDB7-4d49-A65B-0EB57B7DFDC3}", "Package");
+tocTab[tocTab.length] = new Array("1.7", "1", "Ventas", "EARoot/EA1/EA9.html", "4.png", "", "", "{5DB6054C-ACE4-46fa-AA67-DF8D0B88E11D}", "Package");

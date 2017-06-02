@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.7.5:1", "", "Modelo de datos", "EARoot/EA1/EA7/EA5/EA616.html", "175.png", "260", "0", "", "Logical diagram0","{24E23EB9-C714-4d5d-B6E9-B1864081DD05}");
+tocTab[tocTab.length] = new Array("1.7.5:2", "", "Clase del dominio", "EARoot/EA1/EA7/EA5/EA618.html", "5.png", "958", "0", "", "Class0","{4F3A04A8-C886-4c53-9F6F-43C75849009A}");
+tocTab[tocTab.length] = new Array("1.7.5:3", "", "Data Access Object (DAO)", "EARoot/EA1/EA7/EA5/EA619.html", "5.png", "956", "0", "", "Class0","{8AC67B9A-0D5B-43bd-8E94-99054212C622}");
+tocTab[tocTab.length] = new Array("1.7.5:4", "", "«table» Tabla de base de datos", "EARoot/EA1/EA7/EA5/EA621.html", "28.png", "957", "0", "", "Class0","{B052A46B-F1F2-4539-83CB-CB4B91508BFE}");

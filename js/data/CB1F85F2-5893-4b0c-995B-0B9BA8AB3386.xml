@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("1.2.1:3", "", "Procesos de negocio", "EARoot/EA1/EA2/EA1/EA42.html", "180.png", "18", "0", "", "Use Case diagram0","{840416A5-3F78-4b74-91F6-1D6E295AC50D}");
+tocTab[tocTab.length] = new Array("1.2.1:4", "", "«business process» Escenario de negocio 1", "EARoot/EA1/EA2/EA1/EA44.html", "7.png", "77", "0", "", "UseCase0","{F9D58B11-32B0-4861-9DFB-2024203B83F0}");
+tocTab[tocTab.length] = new Array("1.2.1:5", "", "«business process» Escenario de negocio 2", "EARoot/EA1/EA2/EA1/EA45.html", "7.png", "78", "0", "", "UseCase0","{9F86A404-22E0-4036-9247-956C7A0632FF}");
+tocTab[tocTab.length] = new Array("1.2.1:1", "", "Actividades del escenario de negocio 1", "EARoot/EA1/EA2/EA1/EA38.html", "181.png", "19", "77", "", "Activity diagram0","{F0EA41F6-49C6-4bf3-B275-99CB14899AD7}");
+tocTab[tocTab.length] = new Array("1.2.1:6", "", "condición si...", "EARoot/EA1/EA2/EA1/EA48.html", "56.png", "82", "77", "", "Decision0","{EA36025C-30EC-4938-9260-7D5865D3DE9D}");
+tocTab[tocTab.length] = new Array("1.2.1:7", "", "Inicio", "EARoot/EA1/EA2/EA1/EA49.html", "68.png", "80", "77", "", "StateNode0","{194274FF-7A39-4e0e-A597-6E02C9BD0EE4}");
+tocTab[tocTab.length] = new Array("1.2.1:8", "", "Paso 1", "EARoot/EA1/EA2/EA1/EA50.html", "21.png", "84", "77", "", "Activity0","{17C1D318-F35F-4141-94AB-364FEF988B54}");
+tocTab[tocTab.length] = new Array("1.2.1:9", "", "Paso 2", "EARoot/EA1/EA2/EA1/EA51.html", "21.png", "83", "77", "", "Activity0","{6C3D95CC-2CD0-4411-84F7-B07C2131E319}");
+tocTab[tocTab.length] = new Array("1.2.1:10", "", "Paso 3", "EARoot/EA1/EA2/EA1/EA52.html", "21.png", "81", "77", "", "Activity0","{892B16B1-F5BF-44ce-BA0C-129440CD70F9}");
+tocTab[tocTab.length] = new Array("1.2.1:2", "", "Paso 3", "EARoot/EA1/EA2/EA1/EA40.html", "181.png", "20", "81", "", "Activity diagram0","{0DCC07F2-60C5-4f37-B360-22685F227753}");
+tocTab[tocTab.length] = new Array("1.2.1.1", "", "Paquete de escenarios de negocio", "EARoot/EA1/EA2/EA1/EA47.html", "4.png", "", "", "{9117EA76-1E77-49cf-8796-2A5EB964CCCD}", "Package");

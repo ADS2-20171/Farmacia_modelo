@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("1.2.7:1", "", "Interfaz de usuario", "EARoot/EA1/EA2/EA7/EA108.html", "188.png", "32", "0", "", "Custom diagram0","{F34A446F-82F5-4e0a-9B49-739E15347E68}");
+tocTab[tocTab.length] = new Array("1.2.7:2", "", "Pantalla1", "EARoot/EA1/EA2/EA7/EA111.html", "11.png", "115", "0", "", "Screen0","{7B67AC4E-AA59-4c0d-B31D-BAFB8EF907E8}");
