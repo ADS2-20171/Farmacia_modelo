@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("1.7.4.3:1", "", "views", "EARoot/EA1/EA7/EA4/EA3/EA608.html", "175.png", "259", "0", "", "Logical diagram0","{9B5A34DF-BDBF-4934-BF2D-E638C5B950CC}");
+tocTab[tocTab.length] = new Array("1.7.4.3:2", "", "Class1", "EARoot/EA1/EA7/EA4/EA3/EA611.html", "5.png", "951", "0", "", "Class0","{C64801A2-60E7-4606-8FDC-2E57C08A9110}");
+tocTab[tocTab.length] = new Array("1.7.4.3:3", "", "DetalleFacturaCreateView", "EARoot/EA1/EA7/EA4/EA3/EA612.html", "5.png", "952", "0", "", "Class0","{084AC756-C116-4fe0-B5C8-62EF94CBE264}");
+tocTab[tocTab.length] = new Array("1.7.4.3:4", "", "DetalleFacturaListView", "EARoot/EA1/EA7/EA4/EA3/EA613.html", "5.png", "953", "0", "", "Class0","{1EC1DC8E-A305-45b5-85EF-345C0A5E066A}");
+tocTab[tocTab.length] = new Array("1.7.4.3:5", "", "FacturaCreateView", "EARoot/EA1/EA7/EA4/EA3/EA614.html", "5.png", "954", "0", "", "Class0","{DD4119F7-1A76-442f-8EFA-9FD4C8DF7F7F}");
+tocTab[tocTab.length] = new Array("1.7.4.3:6", "", "FacturaListView", "EARoot/EA1/EA7/EA4/EA3/EA615.html", "5.png", "955", "0", "", "Class0","{F7F3CBE3-1C4F-43a2-9781-B054C7498EA4}");

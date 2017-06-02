@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("1.4.4.3:1", "", "Compras Entity", "EARoot/EA1/EA4/EA4/EA3/EA306.html", "175.png", "243", "0", "", "Logical diagram0","{58041DD9-96DF-43b1-9B7D-B619F803784E}");
+tocTab[tocTab.length] = new Array("1.4.4.3:2", "", "Compra", "EARoot/EA1/EA4/EA4/EA3/EA308.html", "5.png", "881", "0", "", "Class0","{4313E309-2D6B-48d2-B275-FFE41F3EE5DC}");
+tocTab[tocTab.length] = new Array("1.4.4.3:3", "", "DetalleCompra", "EARoot/EA1/EA4/EA4/EA3/EA309.html", "5.png", "880", "0", "", "Class0","{B6FA76DC-0D1D-4d0d-817B-BC3F0FA52592}");
+tocTab[tocTab.length] = new Array("1.4.4.3:4", "", "Distribuidor", "EARoot/EA1/EA4/EA4/EA3/EA310.html", "5.png", "883", "0", "", "Class0","{0C61712F-943A-41d5-83BC-91D3D879D1F6}");
+tocTab[tocTab.length] = new Array("1.4.4.3:5", "", "Medicamento", "EARoot/EA1/EA4/EA4/EA3/EA311.html", "5.png", "879", "0", "", "Class0","{5204C7C6-9890-42c6-B3B0-EE3C28F89E5F}");
+tocTab[tocTab.length] = new Array("1.4.4.3:6", "", "TipoDoc", "EARoot/EA1/EA4/EA4/EA3/EA312.html", "5.png", "882", "0", "", "Class0","{D9D1548B-9CE1-4b23-A37D-3346815377BB}");

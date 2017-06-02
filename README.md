@@ -1,2 +1,0 @@
-# Farmacia_modelo
-DiagramaUML
