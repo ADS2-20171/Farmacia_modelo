@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.3.2:1", "", "Paquetes de casos de uso", "EARoot/EA1/EA3/EA2/EA286.html", "180.png", "157", "0", "", "Use Case diagram0","{EB1DAE9E-1DF5-4bf4-B383-475405C04572}");
+tocTab[tocTab.length] = new Array("1.3.2.1", "1", "Paquete de caso de uso 2", "EARoot/EA1/EA3/EA2/EA290.html", "4.png", "", "", "{9E70EBF3-D3E9-41cd-85DE-706DDDB6159C}", "Package");
+tocTab[tocTab.length] = new Array("1.3.2.2", "1", "Paquete de casos de uso 1", "EARoot/EA1/EA3/EA2/EA289.html", "4.png", "", "", "{0F6944F0-B838-4bb9-AFC5-7C8678546582}", "Package");

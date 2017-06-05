@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("1.3.4.2:1", "", "models", "EARoot/EA1/EA3/EA4/EA2/EA188.html", "175.png", "213", "0", "", "Logical diagram0","{7B34E080-76DE-4c97-97DB-ED438DC51BF6}");
-tocTab[tocTab.length] = new Array("1.3.4.2:2", "", "Compra", "EARoot/EA1/EA3/EA4/EA2/EA191.html", "5.png", "759", "0", "", "Class0","{6730FB28-4D0B-446c-B073-82D4D789B7EA}");
-tocTab[tocTab.length] = new Array("1.3.4.2:3", "", "DetalleCompra", "EARoot/EA1/EA3/EA4/EA2/EA192.html", "5.png", "771", "0", "", "Class0","{1B8E0885-0AFC-46bd-B4F6-92F3B22B8BC3}");
-tocTab[tocTab.length] = new Array("1.3.4.2:4", "", "distribuidor", "EARoot/EA1/EA3/EA4/EA2/EA193.html", "5.png", "760", "0", "", "Class0","{AAAB5453-FB4A-439f-A0C3-BE949C98C2E4}");
-tocTab[tocTab.length] = new Array("1.3.4.2:5", "", "laboratorio", "EARoot/EA1/EA3/EA4/EA2/EA194.html", "5.png", "762", "0", "", "Class0","{3AFC510A-E01E-41a3-BE1C-B13CE56B8340}");
-tocTab[tocTab.length] = new Array("1.3.4.2:6", "", "Medicamento", "EARoot/EA1/EA3/EA4/EA2/EA195.html", "5.png", "765", "0", "", "Class0","{D5A84EC1-6C0B-46ad-9DF4-73B069749322}");
-tocTab[tocTab.length] = new Array("1.3.4.2:7", "", "tipoDoc_CHOICES", "EARoot/EA1/EA3/EA4/EA2/EA196.html", "5.png", "854", "0", "", "Class0","{1B2F624D-1747-45cc-A93A-8959A983FD57}");
-tocTab[tocTab.length] = new Array("1.3.4.2:8", "", "UnidadMedidaC", "EARoot/EA1/EA3/EA4/EA2/EA197.html", "5.png", "851", "0", "", "Class0","{773201B7-5A22-4f2d-B005-D72E439D78ED}");

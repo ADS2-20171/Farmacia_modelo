@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("1.2.4:1", "", "Diagrama de clases detallado", "EARoot/EA1/EA2/EA4/EA183.html", "175.png", "228", "0", "", "Logical diagram0","{9BFAB69E-DA52-40d8-A9E5-BD90BCA01FB7}");
+tocTab[tocTab.length] = new Array("1.2.4:2", "", "Producto", "EARoot/EA1/EA2/EA4/EA188.html", "5.png", "786", "0", "", "Class0","{7667F45B-C70C-4aa6-9693-2D823746FC9A}");
+tocTab[tocTab.length] = new Array("1.2.4:3", "", "Proveedor", "EARoot/EA1/EA2/EA4/EA189.html", "5.png", "784", "0", "", "Class0","{969EDCE1-28E7-41d5-B15D-C2D5F813D1D7}");
+tocTab[tocTab.length] = new Array("1.2.4:4", "", "Usuario", "EARoot/EA1/EA2/EA4/EA190.html", "5.png", "785", "0", "", "Class0","{B83D68E9-AD5B-4ae4-BFBD-BA15BBA0C65A}");
+tocTab[tocTab.length] = new Array("1.2.4.1", "1", "compras/forms", "EARoot/EA1/EA2/EA4/EA185.html", "4.png", "", "", "{B087BA74-B3E3-423e-A039-789C45DCA758}", "Package");
+tocTab[tocTab.length] = new Array("1.2.4.2", "1", "compras/models", "EARoot/EA1/EA2/EA4/EA186.html", "4.png", "", "", "{197040D5-C8A9-4050-9980-EE3965EBBD5A}", "Package");
+tocTab[tocTab.length] = new Array("1.2.4.3", "1", "compras/views", "EARoot/EA1/EA2/EA4/EA187.html", "4.png", "", "", "{A0315FB1-6CD2-43dd-BF7F-2B9030F115D6}", "Package");

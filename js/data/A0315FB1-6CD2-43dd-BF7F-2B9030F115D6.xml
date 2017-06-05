@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("1.2.4.3:1", "", "views", "EARoot/EA1/EA2/EA4/EA3/EA206.html", "175.png", "231", "0", "", "Logical diagram0","{A4D1C288-FD99-4ad9-8046-492912ABDD3C}");
+tocTab[tocTab.length] = new Array("1.2.4.3.1", "1", "compra.py", "EARoot/EA1/EA2/EA4/EA3/EA208.html", "4.png", "", "", "{0F3D635C-D618-4e37-A066-DB7D4C714050}", "Package");

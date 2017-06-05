@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.4.4:1", "", "Diagrama de clases detallado", "EARoot/EA1/EA4/EA4/EA439.html", "175.png", "120", "0", "", "Logical diagram0","{E0B54371-A4C5-4c35-A903-F39EDEBD6A47}");
+tocTab[tocTab.length] = new Array("1.4.4.1", "1", "proveedor/forms", "EARoot/EA1/EA4/EA4/EA442.html", "4.png", "", "", "{8E11043E-F068-4287-86F3-E535B08D1C41}", "Package");
+tocTab[tocTab.length] = new Array("1.4.4.2", "1", "proveedor/models", "EARoot/EA1/EA4/EA4/EA443.html", "4.png", "", "", "{C80F055F-3C7E-4b2c-9A5E-E5316AC4C922}", "Package");
+tocTab[tocTab.length] = new Array("1.4.4.3", "1", "proveedor/views", "EARoot/EA1/EA4/EA4/EA444.html", "4.png", "", "", "{5EAAE892-D4A1-4ce1-AD6A-1DD9A96455B4}", "Package");
