@@ -83,30 +83,6 @@ function initPage(src) {
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">
-					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations293" onclick="parent.toggleDiv('detailsDIVOperations293','DetailsImageOperations293')" />Details:
-						<div id="detailsDIVOperations293" class="DetailsDiv" >
-					<i>Sequential  </i>
-					<table>
-						<tr>
-							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
-							<td></td>
-						</tr>
-					</table>
-					
-					
-					
-						</div>
-					</div>
-				</td>
-			</tr>
-			<tr>
-				<td width="100%" class="TableRow">
-					<i>public</i><br />
-					<strong>get_context_dat</strong>():context['paginate_by']=context['events']
-				</td>
-			</tr>
-			<tr>
-				<td class="TableRowBottomDashed"  colspan="1">
 					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations294" onclick="parent.toggleDiv('detailsDIVOperations294','DetailsImageOperations294')" />Details:
 						<div id="detailsDIVOperations294" class="DetailsDiv" >
 					<i>Sequential  </i>
@@ -126,7 +102,7 @@ function initPage(src) {
 			<tr>
 				<td width="100%" class="TableRow">
 					<i>public</i><br />
-					<strong>get_context_data</strong>():context['events'] = Ingreso.objects.filter(usuario=self.request.user)
+					<strong>get_context_dat</strong>():context['paginate_by']=context['events']
 				</td>
 			</tr>
 			<tr>
@@ -150,13 +126,37 @@ function initPage(src) {
 			<tr>
 				<td width="100%" class="TableRow">
 					<i>public</i><br />
-					<strong>get_context_data()</strong>():return context
+					<strong>get_context_data</strong>():context['events'] = Ingreso.objects.filter(usuario=self.request.user)
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">
 					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations296" onclick="parent.toggleDiv('detailsDIVOperations296','DetailsImageOperations296')" />Details:
 						<div id="detailsDIVOperations296" class="DetailsDiv" >
+					<i>Sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>public</i><br />
+					<strong>get_context_data()</strong>():return context
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations297" onclick="parent.toggleDiv('detailsDIVOperations297','DetailsImageOperations297')" />Details:
+						<div id="detailsDIVOperations297" class="DetailsDiv" >
 					<i>Sequential  </i>
 					<table>
 						<tr>

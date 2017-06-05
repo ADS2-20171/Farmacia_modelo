@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>proveedor.py::ProveedorListView</title>
+<title>ProveedorListView</title>
 <link href="../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {
@@ -103,30 +103,6 @@ function initPage(src) {
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">
-					<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations371" onclick="parent.toggleDiv('detailsDIVOperations371','DetailsImageOperations371')" />Details:
-						<div id="detailsDIVOperations371" class="DetailsDiv" >
-					<i>Sequential  </i>
-					<table>
-						<tr>
-							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
-							<td></td>
-						</tr>
-					</table>
-					
-					
-					
-						</div>
-					</div>
-				</td>
-			</tr>
-			<tr>
-				<td width="100%" class="TableRow">
-					<i>public</i><br />
-					<strong>get_context_data</strong>():return context
-				</td>
-			</tr>
-			<tr>
-				<td class="TableRowBottomDashed"  colspan="1">
 					<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations372" onclick="parent.toggleDiv('detailsDIVOperations372','DetailsImageOperations372')" />Details:
 						<div id="detailsDIVOperations372" class="DetailsDiv" >
 					<i>Sequential  </i>
@@ -146,7 +122,7 @@ function initPage(src) {
 			<tr>
 				<td width="100%" class="TableRow">
 					<i>public</i><br />
-					<strong>get_paginate_by</strong>():return ListView.get_paginate_by(self, queryset)
+					<strong>get_context_data</strong>():return context
 				</td>
 			</tr>
 			<tr>
@@ -170,13 +146,37 @@ function initPage(src) {
 			<tr>
 				<td width="100%" class="TableRow">
 					<i>public</i><br />
-					<strong>get_queryset</strong>():return self.model.objects.filter()
+					<strong>get_paginate_by</strong>():return ListView.get_paginate_by(self, queryset)
 				</td>
 			</tr>
 			<tr>
 				<td class="TableRowBottomDashed"  colspan="1">
 					<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations374" onclick="parent.toggleDiv('detailsDIVOperations374','DetailsImageOperations374')" />Details:
 						<div id="detailsDIVOperations374" class="DetailsDiv" >
+					<i>Sequential  </i>
+					<table>
+						<tr>
+							<td valign = "top"><i></i><span style="margin-left: .7cm;"> </span></td>
+							<td></td>
+						</tr>
+					</table>
+					
+					
+					
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" class="TableRow">
+					<i>public</i><br />
+					<strong>get_queryset</strong>():return self.model.objects.filter()
+				</td>
+			</tr>
+			<tr>
+				<td class="TableRowBottomDashed"  colspan="1">
+					<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageOperations375" onclick="parent.toggleDiv('detailsDIVOperations375','DetailsImageOperations375')" />Details:
+						<div id="detailsDIVOperations375" class="DetailsDiv" >
 					<i>Sequential  </i>
 					<table>
 						<tr>
