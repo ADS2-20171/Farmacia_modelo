@@ -1,2 +1,7 @@
-tocTab[tocTab.length] = new Array("1.2.4.3:1", "", "views", "EARoot/EA1/EA2/EA4/EA3/EA206.html", "175.png", "231", "0", "", "Logical diagram0","{A4D1C288-FD99-4ad9-8046-492912ABDD3C}");
-tocTab[tocTab.length] = new Array("1.2.4.3.1", "1", "compra.py", "EARoot/EA1/EA2/EA4/EA3/EA208.html", "4.png", "", "", "{0F3D635C-D618-4e37-A066-DB7D4C714050}", "Package");
+tocTab[tocTab.length] = new Array("1.5.4.4:1", "", "views/compras", "EARoot/EA1/EA5/EA4/EA4/EA587.htm", "175.png", "232", "0", "", "Logical diagram0","{BE6E7EFF-616A-429d-A918-A72AB409144A}");
+tocTab[tocTab.length] = new Array("1.5.4.4:2", "", "CompraListView", "EARoot/EA1/EA5/EA4/EA4/EA589.htm", "5.png", "873", "0", "", "Class0","{2AE9BAFB-C307-4752-859E-066FD084DC90}");
+tocTab[tocTab.length] = new Array("1.5.4.4:3", "", "MedicmentoCreateView", "EARoot/EA1/EA5/EA4/EA4/EA590.htm", "5.png", "903", "0", "", "Class0","{3AF422DA-BEEE-47ea-8199-41F7448BB2B9}");
+tocTab[tocTab.length] = new Array("1.5.4.4:4", "", "CompraCreateView", "EARoot/EA1/EA5/EA4/EA4/EA591.htm", "5.png", "802", "0", "", "Class0","{85E79135-A6FE-45f0-B060-BA99803AFB50}");
+tocTab[tocTab.length] = new Array("1.5.4.4:5", "", "CompraListView", "EARoot/EA1/EA5/EA4/EA4/EA592.htm", "5.png", "805", "0", "", "Class0","{5F43A09B-4A86-483f-A30B-2F2257144AC8}");
+tocTab[tocTab.length] = new Array("1.5.4.4:6", "", "CompraUpdateView", "EARoot/EA1/EA5/EA4/EA4/EA593.htm", "5.png", "803", "0", "", "Class0","{261971D2-F9BA-47c9-9A28-3A43AB819F33}");
+tocTab[tocTab.length] = new Array("1.5.4.4:7", "", "DetalleCompraListView", "EARoot/EA1/EA5/EA4/EA4/EA594.htm", "5.png", "804", "0", "", "Class0","{00C94ACF-F398-4174-B50B-DA4B0F8B9B68}");

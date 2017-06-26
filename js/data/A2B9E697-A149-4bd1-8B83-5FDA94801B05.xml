@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("1.6.4.1:1", "", "ventas/controller", "EARoot/EA1/EA6/EA4/EA1/EA703.htm", "175.png", "248", "0", "", "Logical diagram0","{751CA94E-4736-4a80-94AA-6CFA475831BC}");
+tocTab[tocTab.length] = new Array("1.6.4.1:2", "", "ClienteTest", "EARoot/EA1/EA6/EA4/EA1/EA705.htm", "5.png", "884", "0", "", "Class0","{0C7C444C-997F-4a5e-92DE-DE5F20447913}");
+tocTab[tocTab.length] = new Array("1.6.4.1:3", "", "ClienteView", "EARoot/EA1/EA6/EA4/EA1/EA706.htm", "5.png", "879", "0", "", "Class0","{85CFF89B-1A5E-462a-AC1E-CC64A4364C1E}");
+tocTab[tocTab.length] = new Array("1.6.4.1:4", "", "django::Model", "EARoot/EA1/EA6/EA4/EA1/EA707.htm", "5.png", "883", "0", "", "Class0","{D93C1145-4669-4272-87D5-A26D05CAEEB4}");
+tocTab[tocTab.length] = new Array("1.6.4.1:5", "", "FacturaTest", "EARoot/EA1/EA6/EA4/EA1/EA708.htm", "5.png", "886", "0", "", "Class0","{385859A6-5026-48e4-B17B-CF79C2EE4442}");
+tocTab[tocTab.length] = new Array("1.6.4.1:6", "", "MedicamentoTest", "EARoot/EA1/EA6/EA4/EA1/EA709.htm", "5.png", "892", "0", "", "Class0","{584BA2CE-2965-4342-9291-7CE8FA2F2500}");
+tocTab[tocTab.length] = new Array("1.6.4.1:7", "", "ModelView", "EARoot/EA1/EA6/EA4/EA1/EA710.htm", "5.png", "880", "0", "", "Class0","{93E6B940-7239-44c3-AAE0-5088A68A9C26}");
+tocTab[tocTab.length] = new Array("1.6.4.1:8", "", "UsuarioTest", "EARoot/EA1/EA6/EA4/EA1/EA711.htm", "5.png", "887", "0", "", "Class0","{76E639B7-8382-4928-85D0-B53DF591BA5E}");

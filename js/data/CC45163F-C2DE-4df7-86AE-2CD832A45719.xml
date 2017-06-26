@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("1.6.7.1.4:1", "", "reporte de ventas 1.html", "EARoot/EA1/EA6/EA7/EA1/EA4/EA770.html", "188.png", "146", "0", "", "Custom diagram0","{092C98B2-EAF3-4232-82A4-35AF6119612D}");
-tocTab[tocTab.length] = new Array("1.6.7.1.4:2", "", "reporte de ventas 2.html", "EARoot/EA1/EA6/EA7/EA1/EA4/EA772.html", "188.png", "147", "0", "", "Custom diagram0","{D8656597-2F7D-4f78-8CCD-80A25DD89A68}");
-tocTab[tocTab.length] = new Array("1.6.7.1.4:3", "", "reporte de ventas 3.html", "EARoot/EA1/EA6/EA7/EA1/EA4/EA774.html", "188.png", "148", "0", "", "Custom diagram0","{AB211EB1-76ED-4249-858F-D9393199B633}");
-tocTab[tocTab.length] = new Array("1.6.7.1.4:4", "", "reporte de ventas 4.html", "EARoot/EA1/EA6/EA7/EA1/EA4/EA776.html", "188.png", "149", "0", "", "Custom diagram0","{76CA1814-27B2-44a5-A139-8852F5BB4D94}");
-tocTab[tocTab.length] = new Array("1.6.7.1.4:5", "", "reporte de ventas 5.html", "EARoot/EA1/EA6/EA7/EA1/EA4/EA778.html", "188.png", "150", "0", "", "Custom diagram0","{D9769516-2986-41f7-B07B-7DEF6A113BFB}");
-tocTab[tocTab.length] = new Array("1.6.7.1.4:6", "", "reporte de ventas 6.html", "EARoot/EA1/EA6/EA7/EA1/EA4/EA780.html", "188.png", "151", "0", "", "Custom diagram0","{0CE65C9C-020E-4929-B6FA-D653C99D72B9}");
-tocTab[tocTab.length] = new Array("1.6.7.1.4:7", "", "reporte de ventas 7.html", "EARoot/EA1/EA6/EA7/EA1/EA4/EA782.html", "188.png", "152", "0", "", "Custom diagram0","{175D7B07-6908-462e-A002-FD3972B7BDBD}");

@@ -1,3 +1,4 @@
-tocTab[tocTab.length] = new Array("1.4.7.1.1", "1", "Agregar Distribuidor", "EARoot/EA1/EA4/EA7/EA1/EA481.html", "4.png", "", "", "{BE1A4F56-4227-4937-B03C-9814ACBFFAF2}", "Package");
-tocTab[tocTab.length] = new Array("1.4.7.1.2", "1", "Editar Distribuidor", "EARoot/EA1/EA4/EA7/EA1/EA482.html", "4.png", "", "", "{E289A5EB-CAA5-4e37-97D7-9DC07B6D2C78}", "Package");
-tocTab[tocTab.length] = new Array("1.4.7.1.3", "1", "Eliminar Distribuidor", "EARoot/EA1/EA4/EA7/EA1/EA483.html", "4.png", "", "", "{A5076B2E-64D9-436c-A7B1-06427BD1021A}", "Package");
+tocTab[tocTab.length] = new Array("1.3.7.1.1", "1", "Agregar Distribuidor", "EARoot/EA1/EA3/EA7/EA1/EA354.htm", "4.png", "", "", "{BE1A4F56-4227-4937-B03C-9814ACBFFAF2}", "Package");
+tocTab[tocTab.length] = new Array("1.3.7.1.2", "1", "Editar Distribuidor", "EARoot/EA1/EA3/EA7/EA1/EA355.htm", "4.png", "", "", "{E289A5EB-CAA5-4e37-97D7-9DC07B6D2C78}", "Package");
+tocTab[tocTab.length] = new Array("1.3.7.1.3", "1", "Eliminar Distribuidor", "EARoot/EA1/EA3/EA7/EA1/EA356.htm", "4.png", "", "", "{A5076B2E-64D9-436c-A7B1-06427BD1021A}", "Package");
+tocTab[tocTab.length] = new Array("1.3.7.1.4", "1", "Listar Distribuidor", "EARoot/EA1/EA3/EA7/EA1/EA353.htm", "4.png", "", "", "{1A4BBB81-D1E7-472c-ACBB-BBA3EE42A85A}", "Package");

@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("1.4.4.3:1", "", "proveedor/view", "EARoot/EA1/EA4/EA4/EA3/EA454.html", "175.png", "234", "0", "", "Logical diagram0","{D7F13FD7-B243-4770-B06B-0F6BF952455D}");
-tocTab[tocTab.length] = new Array("1.4.4.3.1", "1", "proveedor.py", "EARoot/EA1/EA4/EA4/EA3/EA456.html", "4.png", "", "", "{8F05BB4A-01DD-4766-A198-16B2226850A8}", "Package");
+tocTab[tocTab.length] = new Array("1.3.4.4:1", "", "proveedor/view", "EARoot/EA1/EA3/EA4/EA4/EA326.htm", "175.png", "234", "0", "", "Logical diagram0","{D7F13FD7-B243-4770-B06B-0F6BF952455D}");
+tocTab[tocTab.length] = new Array("1.3.4.4.1", "1", "proveedor.py", "EARoot/EA1/EA3/EA4/EA4/EA328.htm", "4.png", "", "", "{8F05BB4A-01DD-4766-A198-16B2226850A8}", "Package");
