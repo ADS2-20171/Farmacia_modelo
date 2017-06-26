@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("1.6.4.4:1", "", "views", "EARoot/EA1/EA6/EA4/EA4/EA721.htm", "175.png", "99", "0", "", "Logical diagram0","{C3D2183B-6EE7-4848-86CC-350F74E05F2B}");
-tocTab[tocTab.length] = new Array("1.6.4.4:2", "", "DetalleFacturaCreateView", "EARoot/EA1/EA6/EA4/EA4/EA723.htm", "5.png", "410", "0", "", "Class0","{93B0D2E3-CB0D-4a5d-899B-3C5860DDC0BF}");
-tocTab[tocTab.length] = new Array("1.6.4.4:3", "", "DetalleFacturaListView", "EARoot/EA1/EA6/EA4/EA4/EA724.htm", "5.png", "411", "0", "", "Class0","{FFA62312-E0DD-4955-86B0-D13704506196}");
-tocTab[tocTab.length] = new Array("1.6.4.4:4", "", "FacturaCreateView", "EARoot/EA1/EA6/EA4/EA4/EA725.htm", "5.png", "412", "0", "", "Class0","{D4DC7D84-5584-4d7e-9848-5B6B9A49C763}");
-tocTab[tocTab.length] = new Array("1.6.4.4:5", "", "FacturaListView", "EARoot/EA1/EA6/EA4/EA4/EA726.htm", "5.png", "413", "0", "", "Class0","{70E0AF20-9008-4106-8CA1-4C784CC4B91A}");
+tocTab[tocTab.length] = new Array("1.6.4.4:1", "", "views", "EARoot/EA1/EA6/EA4/EA4/EA721.html", "175.png", "99", "0", "", "Logical diagram0","{C3D2183B-6EE7-4848-86CC-350F74E05F2B}");
+tocTab[tocTab.length] = new Array("1.6.4.4:2", "", "DetalleFacturaCreateView", "EARoot/EA1/EA6/EA4/EA4/EA723.html", "5.png", "410", "0", "", "Class0","{93B0D2E3-CB0D-4a5d-899B-3C5860DDC0BF}");
+tocTab[tocTab.length] = new Array("1.6.4.4:3", "", "DetalleFacturaListView", "EARoot/EA1/EA6/EA4/EA4/EA724.html", "5.png", "411", "0", "", "Class0","{FFA62312-E0DD-4955-86B0-D13704506196}");
+tocTab[tocTab.length] = new Array("1.6.4.4:4", "", "FacturaCreateView", "EARoot/EA1/EA6/EA4/EA4/EA725.html", "5.png", "412", "0", "", "Class0","{D4DC7D84-5584-4d7e-9848-5B6B9A49C763}");
+tocTab[tocTab.length] = new Array("1.6.4.4:5", "", "FacturaListView", "EARoot/EA1/EA6/EA4/EA4/EA726.html", "5.png", "413", "0", "", "Class0","{70E0AF20-9008-4106-8CA1-4C784CC4B91A}");

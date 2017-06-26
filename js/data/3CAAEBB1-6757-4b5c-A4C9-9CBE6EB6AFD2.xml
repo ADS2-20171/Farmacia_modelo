@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("1.6.2:1", "", "Paquetes de casos de uso", "EARoot/EA1/EA6/EA2/EA663.htm", "180.png", "90", "0", "", "Use Case diagram0","{41383E13-CF8A-44ca-A743-C74604CCE52F}");
-tocTab[tocTab.length] = new Array("1.6.2.1", "1", "Paquete de caso de uso 2", "EARoot/EA1/EA6/EA2/EA667.htm", "4.png", "", "", "{B77DC1E6-C5F7-41d2-843A-3992E29DF36A}", "Package");
-tocTab[tocTab.length] = new Array("1.6.2.2", "1", "Paquete de casos de uso 1", "EARoot/EA1/EA6/EA2/EA666.htm", "4.png", "", "", "{1C47D5CA-69B6-4810-9BC9-5EA37491E25B}", "Package");
+tocTab[tocTab.length] = new Array("1.6.2:1", "", "Paquetes de casos de uso", "EARoot/EA1/EA6/EA2/EA663.html", "180.png", "90", "0", "", "Use Case diagram0","{41383E13-CF8A-44ca-A743-C74604CCE52F}");
+tocTab[tocTab.length] = new Array("1.6.2.1", "1", "Paquete de caso de uso 2", "EARoot/EA1/EA6/EA2/EA667.html", "4.png", "", "", "{B77DC1E6-C5F7-41d2-843A-3992E29DF36A}", "Package");
+tocTab[tocTab.length] = new Array("1.6.2.2", "1", "Paquete de casos de uso 1", "EARoot/EA1/EA6/EA2/EA666.html", "4.png", "", "", "{1C47D5CA-69B6-4810-9BC9-5EA37491E25B}", "Package");

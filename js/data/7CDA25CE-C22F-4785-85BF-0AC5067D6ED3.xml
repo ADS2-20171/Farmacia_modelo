@@ -1,7 +1,7 @@
-tocTab[tocTab.length] = new Array("1.4.4:1", "", "Diagrama de clases detallado", "EARoot/EA1/EA4/EA4/EA432.htm", "175.png", "244", "0", "", "Logical diagram0","{B50191DA-FEA4-450e-B807-DA5AD0417E69}");
-tocTab[tocTab.length] = new Array("1.4.4:2", "", "Compra", "EARoot/EA1/EA4/EA4/EA436.htm", "5.png", "851", "0", "", "Class0","{DCB8A8E2-17F6-4e9d-B71A-667009C9171E}");
-tocTab[tocTab.length] = new Array("1.4.4:3", "", "FacturaDetalle", "EARoot/EA1/EA4/EA4/EA437.htm", "5.png", "850", "0", "", "Class0","{EF92C0CD-7519-4dee-902C-8F402879E1F5}");
-tocTab[tocTab.length] = new Array("1.4.4.1", "1", "medicamento/controller", "EARoot/EA1/EA4/EA4/EA434.htm", "4.png", "", "", "{49BB9486-0791-42b6-A320-C57E7DE26EED}", "Package");
-tocTab[tocTab.length] = new Array("1.4.4.2", "1", "medicamento/forms", "EARoot/EA1/EA4/EA4/EA435.htm", "4.png", "", "", "{573EB198-0A48-4c59-99E2-D39E584D0FEF}", "Package");
-tocTab[tocTab.length] = new Array("1.4.4.3", "1", "medicamento/models", "EARoot/EA1/EA4/EA4/EA438.htm", "4.png", "", "", "{3E3D963D-58AA-4004-B128-ACB46B2D7A53}", "Package");
-tocTab[tocTab.length] = new Array("1.4.4.4", "1", "medicamento/views", "EARoot/EA1/EA4/EA4/EA439.htm", "4.png", "", "", "{5F9A9D4E-B09D-4b60-8CA0-6A8BFB0935FA}", "Package");
+tocTab[tocTab.length] = new Array("1.4.4:1", "", "Diagrama de clases detallado", "EARoot/EA1/EA4/EA4/EA432.html", "175.png", "244", "0", "", "Logical diagram0","{B50191DA-FEA4-450e-B807-DA5AD0417E69}");
+tocTab[tocTab.length] = new Array("1.4.4:2", "", "Compra", "EARoot/EA1/EA4/EA4/EA436.html", "5.png", "851", "0", "", "Class0","{DCB8A8E2-17F6-4e9d-B71A-667009C9171E}");
+tocTab[tocTab.length] = new Array("1.4.4:3", "", "FacturaDetalle", "EARoot/EA1/EA4/EA4/EA437.html", "5.png", "850", "0", "", "Class0","{EF92C0CD-7519-4dee-902C-8F402879E1F5}");
+tocTab[tocTab.length] = new Array("1.4.4.1", "1", "medicamento/controller", "EARoot/EA1/EA4/EA4/EA434.html", "4.png", "", "", "{49BB9486-0791-42b6-A320-C57E7DE26EED}", "Package");
+tocTab[tocTab.length] = new Array("1.4.4.2", "1", "medicamento/forms", "EARoot/EA1/EA4/EA4/EA435.html", "4.png", "", "", "{573EB198-0A48-4c59-99E2-D39E584D0FEF}", "Package");
+tocTab[tocTab.length] = new Array("1.4.4.3", "1", "medicamento/models", "EARoot/EA1/EA4/EA4/EA438.html", "4.png", "", "", "{3E3D963D-58AA-4004-B128-ACB46B2D7A53}", "Package");
+tocTab[tocTab.length] = new Array("1.4.4.4", "1", "medicamento/views", "EARoot/EA1/EA4/EA4/EA439.html", "4.png", "", "", "{5F9A9D4E-B09D-4b60-8CA0-6A8BFB0935FA}", "Package");
